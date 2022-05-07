@@ -1,0 +1,8 @@
+/Users/francesco/Library/CloudStorage/OneDrive-个人/Pycharm_program/filecopy/file2.txt
+/Users/francesco/Library/CloudStorage/OneDrive-个人/Pycharm_program/filecopy/file1.txt
+/Users/francesco/Library/CloudStorage/OneDrive-个人/Pycharm_program/filecopy/.DS_Store
+/Users/francesco/Library/CloudStorage/OneDrive-个人/Pycharm_program/filecopy/test.py
+/Users/francesco/Library/CloudStorage/OneDrive-个人/Pycharm_program/filecopy/form.ui
+/Users/francesco/Library/CloudStorage/OneDrive-个人/Pycharm_program/filecopy/icon
+/Users/francesco/Library/CloudStorage/OneDrive-个人/Pycharm_program/filecopy/res.qrc
+/Users/francesco/Library/CloudStorage/OneDrive-个人/Pycharm_program/filecopy/.idea

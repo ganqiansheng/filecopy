@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="toolbar">
+    <file>fileclose.ico</file>
+    <file>fileexport.ico</file>
+    <file>filefind.ico</file>
+    <file>fileimport.ico</file>
+    <file>filenew.ico</file>
+    <file>fileopen.ico</file>
+    <file>fileprint.ico</file>
+    <file>filequickprint.ico</file>
+    <file>filesave.ico</file>
+    <file>filesaveas.ico</file>
+  </qresource>
+</RCC>
